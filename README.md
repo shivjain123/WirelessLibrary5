@@ -1,1 +1,2 @@
-# WirelessLibrary5
+# searchBar
+Added search bar to the wily App
